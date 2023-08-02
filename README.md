@@ -1,4 +1,4 @@
-# aws-devops-open-scripts
+# AWS Open Scripts
 
 This is a set of small scripts that interact with AWS, Jira, and Bitbucket. Most of them are simple boto3 asynchronous scripts with Jira and Bitbucket integrations. They help automate tasks and improve workflows compared to clicking through the slow front ends of those services.
 
